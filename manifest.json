@@ -3,18 +3,18 @@
   "name": "Portal de padres de familia Highlands",
   "icons": [
     {
-      "src": "https://uploads-ssl.webflow.com/659d259c164722028f332e31/6633cd8dd0c23d38fa55a754_portal-icono-2.png",
+      "src": "https://uploads-ssl.webflow.com/659d259c164722028f332e31/6633ce530e5019bd033fa8af_portal-icono-2.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://uploads-ssl.webflow.com/659d259c164722028f332e31/6633cd8dd3ef87c33189654f_portal-icono.png",
+      "src": "https://uploads-ssl.webflow.com/659d259c164722028f332e31/6633ce5389d42bfe09e718ec_portal-icono.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
   "start_url": "/",
-  "background_color": "#FFFFFF",
+  "background_color": "#273D5D",
   "display": "standalone",
   "scope": "/",
   "theme_color": "#000000"
