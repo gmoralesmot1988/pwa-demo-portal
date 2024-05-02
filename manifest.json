@@ -11,6 +11,21 @@
       "src": "https://uploads-ssl.webflow.com/659d259c164722028f332e31/6633ce5389d42bfe09e718ec_portal-icono.png",
       "type": "image/png",
       "sizes": "512x512"
+    },
+    {
+      "src": "https://uploads-ssl.webflow.com/659d259c164722028f332e31/6633ce530e5019bd033fa8af_portal-icono-2.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "https://uploads-ssl.webflow.com/659d259c164722028f332e31/6633ce5389d42bfe09e718ec_portal-icono.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "https://uploads-ssl.webflow.com/659d259c164722028f332e31/6633ce530e5019bd033fa8af_portal-icono-2.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ],
   "start_url": "/",
