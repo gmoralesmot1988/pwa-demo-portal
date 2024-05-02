@@ -3,12 +3,12 @@
   "name": "Portal de padres de familia Highlands",
   "icons": [
     {
-      "src": "ruta/a/icono-192x192.png",
+      "src": "https://uploads-ssl.webflow.com/659d259c164722028f332e31/6633cd8dd0c23d38fa55a754_portal-icono-2.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "ruta/a/icono-512x512.png",
+      "src": "https://uploads-ssl.webflow.com/659d259c164722028f332e31/6633cd8dd3ef87c33189654f_portal-icono.png",
       "type": "image/png",
       "sizes": "512x512"
     }
